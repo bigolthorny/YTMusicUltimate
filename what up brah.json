@@ -1,0 +1,43 @@
+{
+  "name": "what up brah",
+  "subtitle": "Tap In Fn",
+  "description": "Pair of Shoes",
+  "iconURL": "https://i.imgur.com/4aczjo2.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#000000",
+  "featuredApps": [
+    "com.google.ios.youtubemusic"
+  ],
+  "headerURL": "https://i.imgur.com/yZ351nt.png",
+  "apps": [
+    {
+      "name": "Youtube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "i lov stego",
+      "localizedDescription": "stegooo auuuuau",
+      "iconURL": "https://i.imgur.com/XdORioh.png",
+      "tintColor": "#eedd44",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSCameraUsageDescription": "To take a profile picture, allow YouTube Music to access your camera.",
+          "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
+          "NSPhotoLibraryAddUsageDescription": "To save images, allow YouTube Music to access your photo library.",
+          "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
